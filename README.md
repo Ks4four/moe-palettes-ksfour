@@ -1,4 +1,4 @@
-# ksfour-moe-palettes
+# moe-palettes-ksfour
 
 > If anime avatar users are the best programmers, where are all the anime colorschemes?
 
